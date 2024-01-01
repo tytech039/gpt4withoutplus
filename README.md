@@ -1,4 +1,4 @@
-# gptwithoutplus
+# gpt4withoutplus
 a very simple script i made to utilize api without going through 20 bucks instantly. Guh!!!
 
 how to setup:
